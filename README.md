@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikamunjishvili&label=Profile%20views&color=0e75b6&style=flat" alt="nikamunjishvili" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Node.js,Express.js,MongoDB**
 
 - 💬 Ask me about **React**
 
