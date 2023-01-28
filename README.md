@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **javascript,react,typescript,node.js,express.js,mongodb**
+- 💬 Ask me about **javascript,react,typescript,next.js,python,flask**
 
 - 📫 How to reach me **nikamunja31415@gmail.com**
 
