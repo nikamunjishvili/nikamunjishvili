@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nikamunjishvili" target="blank"><img src="https://img.shields.io/twitter/follow/nikamunjishvili?logo=twitter&style=for-the-badge" alt="nikamunjishvili" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **javascript,react,typescript,next.js,python,flask**
+- 💬 Ask me about **javascript,react,typescript,next.js,python,Node.js**
 
 - 📫 How to reach me **nikamunja31415@gmail.com**
 
